@@ -58,4 +58,5 @@ Task {
 }
 ```
 
-
+## License
+This package is released under the MIT License.
