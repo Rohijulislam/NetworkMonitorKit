@@ -19,7 +19,7 @@
 
 ### Using Swift Package Manager (SPM)
 1. Open **Xcode**, go to **File** → **Add Packages**.  
-2. Enter the repository URL:
+2. Enter the repository URL: https://github.com/Rohijulislam/NetworkMonitorKit.git
 3. Select **Add Package** and import it into your project:  
 ```swift
 import NetworkMonitorKit
