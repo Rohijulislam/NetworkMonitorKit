@@ -6,10 +6,10 @@ import PackageDescription
 let package = Package(
     name: "NetworkMonitorKit",
     platforms: [
-        .iOS(.v12),
+        .iOS(.v13),
         .macOS(.v10_15),
-        .tvOS(.v12),
-        .watchOS(.v6)
+        .watchOS(.v6),
+        .visionOS(.v1),
     ],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
