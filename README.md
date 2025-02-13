@@ -2,7 +2,7 @@
 *A simple Swift package to monitor network connectivity using `NWPathMonitor`.*  
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg)
-![Platforms](https://img.shields.io/badge/platforms-iOS%20|%20macOS%20|%20tvOS%20|%20watchOS-blue)
+![Platforms](https://img.shields.io/badge/platforms-iOS%20|%20macOS%20|%20visionOS%20|%20watchOS-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
